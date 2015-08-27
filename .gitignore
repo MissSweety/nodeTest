@@ -8,6 +8,7 @@ pids
 *.pid
 *.seed
 
+.gitignore
 .DS_Store
 node_modules
 
